@@ -18,10 +18,10 @@
 - HTML, CSS, JS
 - Figma, Adobe XD, Photshop
 
-### Top Languages
+### 👩‍💻 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamillyNunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Stats
+### 📊 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamillyNunes&show_icons=true&theme=tokyonight)
 
 ### 📌 Find me
