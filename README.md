@@ -1,6 +1,12 @@
 ![image](https://github.com/user-attachments/assets/f252332e-96a7-49d0-932e-05095f82008a)
 
 ## 👋 Oi, sou a Samilly! |  Hi, I'm Samilly!
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### 👩‍💻 Sobre mim
 - Desenvolvedora de software apaixonada por criar experiências incríveis, aqui você pode ver o meu portfólio: http://portfolio-samydev.netlify.app/ 
@@ -34,7 +40,7 @@
 - [Quiz para Devs - NLW 5](https://github.com/SamillyNunes/dev_quiz_nlw5)
 
 ### 📊 Minhas estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamillyNunes&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamillyNunes&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamillyNunes&layout=compact&theme=tokyonight)
 
